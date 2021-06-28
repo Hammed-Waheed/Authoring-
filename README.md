@@ -1,18 +1,23 @@
-# Github Flavoured Markdown
+# Authoring
+## Github Flavoured Markdown
 
-- External Link
-- Internal Link
-- Images
-- Emojis
-- Tables
+- [ ] External Link
+- [ ] Internal Link
+- [ ] Images
+- [ ] Emojis
+- [ ] Tables
 
 [External Link](https://help.github.com/en)
 
-[Images Link](#images)
+[Images](#images)
 
 ![image1](/folder/photo-1.jpeg)
 
+## Imojis
 🍎
+🥉
+
+## Tables
 
 |Names|Classes|
 |-----:|:-----:|
