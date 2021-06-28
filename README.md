@@ -5,7 +5,7 @@
 - [ ] Internal Link
 - [ ] Images
 - [ ] Emojis
-- [ ] [Tables](#Tables)
+- [x] [Tables](#Tables)
 
 [External Link](https://help.github.com/en)
 
