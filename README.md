@@ -1,11 +1,17 @@
-# Authoring
-## Github Flavoured Markdown   
+# Github Flavoured Markdown
+## [About me](#something)
 
-- [ ] External Link
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
+## Create checkboxes with the following tasks:  
+- [x] [External Link](#External-Link)
+- [x] Internal Link
+- [x] Images
+- [x] Emojis
 - [x] [Tables](#Tables)
+
+## [External Link](#Create-checkboxes-with-the-following-tasks)
+
+
+
 
 [External Link](https://help.github.com/en)
 
@@ -19,9 +25,12 @@
 
 ## Tables
 
-|Names|Classes|
-|-----:|:-----:|
-|Karim 1| Class A|
-|Kevin 2| Class B|
+|Names|Classes|Color|
+|-----:|:-----:|----:|
+|Victor 1| Class A|Blue|
+|Kevin 2| Class B|Green|
+|Chris 3| Class C|White|
+
+Madee by Waheed [#something]
 
 
