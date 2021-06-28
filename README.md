@@ -6,7 +6,7 @@
 - Emojis
 - Tables
 
-[External Link](hhtp:help.github.com)
+[External Link](https://help.github.com/en)
 
 [Images Link](#images)
 
