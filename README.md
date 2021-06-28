@@ -1,6 +1,6 @@
 # Github Flavoured Markdown
 
-- [] External Link
+- External Link
 - Internal Link
 - Images
 - Emojis
@@ -10,4 +10,13 @@
 
 [Images Link](#images)
 
-![image1]()
+![image1](/folder/photo-1.jpeg)
+
+🍎
+
+|Names|Classes|
+|-----:|:-----:|
+|Karim 1| Class A|
+|Kevin 2| Class B|
+
+
