@@ -15,7 +15,7 @@
 
 [External Link](https://help.github.com/en)
 
-[Images](#images)
+[Images](#Images)
 
 ![image1](/folder/photo-1.jpeg)
 
